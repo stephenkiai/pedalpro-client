@@ -35,6 +35,7 @@ const AboutUs = () => {
                       Join us today and become a part of our ever-growing PedalPro family. Let's pedal together towards a healthier, happier, and more connected world!"
                     </p>
                   </div>
+                  
                 </Col>
               </Row>
             </Container>
