@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pedalpro-client/static/css/main.ba65cfc7.css",
+    "main.js": "/pedalpro-client/static/js/main.1f46007f.js",
+    "static/js/787.8f9e0ee3.chunk.js": "/pedalpro-client/static/js/787.8f9e0ee3.chunk.js",
+    "static/media/banner1.jpg": "/pedalpro-client/static/media/banner1.a7581d237e25925aad85.jpg",
+    "static/media/banner2.jpg": "/pedalpro-client/static/media/banner2.f33a92d01524d5267783.jpg",
+    "static/media/feature_login.png": "/pedalpro-client/static/media/feature_login.4328f25f37696fe1a901.png",
+    "static/media/feature_signup.png": "/pedalpro-client/static/media/feature_signup.b5c601a5cec7e2f63193.png",
+    "static/media/feature_ridelist.png": "/pedalpro-client/static/media/feature_ridelist.63bde2abc813385eeacc.png",
+    "static/media/feature_create_ride.png": "/pedalpro-client/static/media/feature_create_ride.2f61ed94fb9e7c649d9a.png",
+    "index.html": "/pedalpro-client/index.html",
+    "main.ba65cfc7.css.map": "/pedalpro-client/static/css/main.ba65cfc7.css.map",
+    "main.1f46007f.js.map": "/pedalpro-client/static/js/main.1f46007f.js.map",
+    "787.8f9e0ee3.chunk.js.map": "/pedalpro-client/static/js/787.8f9e0ee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba65cfc7.css",
+    "static/js/main.1f46007f.js"
+  ]
+}
