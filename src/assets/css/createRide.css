@@ -1,0 +1,43 @@
+.cover_image {
+  background-image: url('../images/banner2.jpg');
+    background-size: cover;
+    position: relative;
+    background-position-y: center;
+    height: 900px;
+    margin-bottom: 1rem;
+}
+
+.form-container-outer {
+  padding: 50px;
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+    
+  }
+  
+  .form-container label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .form-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .form-container button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background-color: #131415;
+  }
+  

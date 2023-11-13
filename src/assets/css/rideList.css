@@ -1,0 +1,52 @@
+.cover_image {
+  background-image: url('../images/banner2.jpg');
+    background-size: cover;
+    position: relative;
+    background-position-y: center;
+    height: 900px;
+    margin-bottom: 1rem;
+}
+
+.ride-list-outer-container {
+    width: 70%;
+    padding-left: 30%;
+  }
+
+  .ride-list-outer-container h1{
+    text-align: center;
+    padding: 60px;
+    color: var(--white);
+  }
+
+.ride-list-container {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-height: 700px;
+    overflow-y: scroll;
+    padding-left: 10px;
+  }
+
+  .ride-list-container h1 {
+    font-style: italic;  
+  
+  }
+  
+  /* Individual ride cards */
+  .ride-card {
+    flex: 0 1 calc(30% - 20px);
+    margin: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Adjust card width for smaller screens */
+  @media (max-width: 768px) {
+    .ride-card {
+      flex: 0 1 calc(50% - 20px);
+    }
+  }
+  
